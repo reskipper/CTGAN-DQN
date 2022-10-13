@@ -1,1 +1,1 @@
-本项目代码测试了用CT-GAN（生成表格数据）丰富DQN经验回放的效果。
+In this project, I tested the effect of enrich DQN experience replay leveraging CT-GAN (generating tabular data) and the result is **NOT ideal**.
